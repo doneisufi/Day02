@@ -1,4 +1,3 @@
-
 textData = """Moi je m'appelle 'Lolita'
 Lo ou bien Lola, du pareil au même
 Moi je m'appelle 'Lolita'
